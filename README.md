@@ -7,5 +7,5 @@ Homework 1 - 15/15
 Project update 1 - 20/20
 
 
-##### Final Grade 
+### Final Grade 
 A-
