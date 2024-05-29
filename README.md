@@ -1,6 +1,9 @@
 ## CSCI-599-Software-Engineering-for-Security 
 
+#### Homeworks
 Homework 1 - 15/15
+
+#### Project
 
 Team Members for project
 
